@@ -2,7 +2,9 @@
 """
 Created on Thu Jul 27 23:11:42 2017
 
-@author: harne
+@author: MacKenzie Harnett
+
+A hangman game created for the MITx course through edx. 
 """
 def isWordGuessed(secretWord, lettersGuessed):
     '''
